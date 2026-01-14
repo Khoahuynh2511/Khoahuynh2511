@@ -4,7 +4,7 @@
 
 ### `Software Engineer` | `Data Scientist` | `AI Enthusiast`
 
-<a href="https://kaih.vercel.app"><img src="https://img.shields.io/badge/Portfolio-kaih.dev-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://kaih.vercel.app"><img src="https://img.shields.io/badge/Portfolio-kaih.vercel.app-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/huynh-dang-khoa-846786218/"><img src="https://img.shields.io/badge/LinkedIn-Khoa%20Huynh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dangkhoahuynh2511@gmail.com"><img src="https://img.shields.io/badge/Email-dangkhoahuynh2511-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
